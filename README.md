@@ -51,9 +51,6 @@ A trans-disciplinary project integrating ML, Economics, and full-stack developme
 - **Stack:** Next.js, React.js, Flask, Supabase, scikit-learn, Chart.js
 - **Deployed on:** Vercel
 
-### 📊 [Faculty Dashboard](https://github.com/RAghav208/faculty-dashboard)
-> Academic management dashboard for faculty — attendance, assignments, and student tracking
-
 ---
 
 ## 📈 GitHub Stats
